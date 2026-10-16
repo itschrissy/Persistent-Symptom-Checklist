@@ -1,13 +1,13 @@
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: lightgrey;
   margin: 0;
   padding: 40px;
 }
 .container {
   max-width: 600px;
   margin: 0 auto;
-  background-color: white;
+  background-color:lightpink;
   padding: 30px;
   border-radius: 10px;
 }
